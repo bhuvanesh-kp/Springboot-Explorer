@@ -1,10 +1,10 @@
-package com.bhuvanesh.eureka_server;
+package com.bhuvanesh.imageProcessor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurekaServerApplicationTests {
+class ImageProcessorApplicationTests {
 
 	@Test
 	void contextLoads() {
